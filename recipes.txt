@@ -2,6 +2,9 @@ trial: creating a file in a repository called recipes.txt
 
 edit: trialing the editing
 
+Added in Trialing Branch:
 edit 2: trailing with different branches for different edits
 
 "Will this line only show up in my trialing branch?"
+
+Merging completed
