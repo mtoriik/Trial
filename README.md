@@ -1,2 +1,3 @@
 # Trial
-Trial repository
+Trial repository to understand GituHUb
+
